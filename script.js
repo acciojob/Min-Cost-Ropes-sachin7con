@@ -16,7 +16,7 @@ for(let j=0; j<sumArr.length; j++){
     res += sumArr[j];
 }
 
-	return res-sumArr[1];
+	return res;
 
 // return the min cost
   
